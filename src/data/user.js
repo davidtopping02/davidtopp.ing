@@ -1,41 +1,31 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "David Topping",
+		name: "David Topping.",
+		email: "mail@davidtopp.ing",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		github: "https://github.com/davidtopping02",
+		linkedin: "https://linkedin.com/in/davidtoppi",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "David Topping",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"Award-winning software engineer with a 1st Class BSc (Hons) in Computer Science from the University of Dundee. I specialise in full-stack development and work at NCR Atleos on global ATM systems. Recognised with the Leidos Award for Best Engineered Project and top hackathon placements. Proficient in Angular, Python, C#, Docker, Kubernetes, Terraform, MySQL, NoSQL, and Google Cloud Platform. I’ve led teams in cloud automation, real-time analytics, and customer-focused apps.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "About me",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
-	},
-
-	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"I’m David Topping, a software engineer based in Edinburgh with a passion for both front-end and back-end systems. I hold a first-class BSc (Hons) in Computer Science from the University of Dundee, where I developed projects like an award-winning library occupancy tracker that used machine learning for predictive analytics. Currently, I work at NCR Atleos as part of a Scrum team, contributing to the development and optimisation of user interfaces for global ATM systems. I have also worked as a lab tutor, helping students grasp programming fundamentals. Outside of tech, I enjoy getting outdoors as much as possible—whether it’s mountain biking or hillwalking up Scotland’s Munros.",
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "University of Dundee Library Occupancy Tracker",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
@@ -44,7 +34,7 @@ const INFO = {
 		},
 
 		{
-			title: "Project 2",
+			title: "Container Accelerator",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
@@ -53,7 +43,7 @@ const INFO = {
 		},
 
 		{
-			title: "Project 3",
+			title: "Little Green Larder",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
@@ -62,7 +52,7 @@ const INFO = {
 		},
 
 		{
-			title: "Project 4",
+			title: "Portfolio Website",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
@@ -71,7 +61,16 @@ const INFO = {
 		},
 
 		{
-			title: "Project 5",
+			title: "Quackathon",
+			description:
+				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://github.com",
+		},
+
+		{
+			title: "Audio Atleos",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
